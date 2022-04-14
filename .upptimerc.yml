@@ -3,7 +3,7 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - cname: APIV3-Teams
+  - name: APIV3-Teams
     url: https://apiv3.esports-data-provider.com/teams
     headers:
     - "token: test"
