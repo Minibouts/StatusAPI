@@ -9,10 +9,16 @@ sites:
     - "token: test"
   - name: APIV3-Events
     url: https://apiv3.esports-data-provider.com/events
+    headers:
+- "token: test"
     - name: APIV3-Matches
     url: https://apiv3.esports-data-provider.com/matches
+    headers:
+- "token: test"
     - name: APIV3-VideoGames
     url: https://apiv3.esports-data-provider.com/videogames
+    headers:
+- "token: test"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
