@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 374,
-    "timeWeek": 374,
-    "timeMonth": 374,
-    "timeYear": 374,
+    "time": 372,
+    "timeDay": 372,
+    "timeWeek": 372,
+    "timeMonth": 372,
+    "timeYear": 372,
     "dailyMinutesDown": {}
   },
   {
@@ -23,20 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/apiv3.esports-data-provider.com",
     "slug": "apiv-3-events",
     "status": "up",
-    "uptime": "9.36%",
-    "uptimeDay": "9.36%",
-    "uptimeWeek": "9.36%",
-    "uptimeMonth": "9.36%",
-    "uptimeYear": "9.36%",
-    "time": 150,
-    "timeDay": 150,
-    "timeWeek": 150,
-    "timeMonth": 150,
-    "timeYear": 150,
-    "dailyMinutesDown": {
-      "2022-04-15": 516,
-      "2022-04-14": 476
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
+    "dailyMinutesDown": {}
   },
   {
     "name": "APIV3-Matches",
@@ -44,20 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/apiv3.esports-data-provider.com",
     "slug": "apiv-3-matches",
     "status": "up",
-    "uptime": "9.08%",
-    "uptimeDay": "9.08%",
-    "uptimeWeek": "9.08%",
-    "uptimeMonth": "9.08%",
-    "uptimeYear": "9.08%",
-    "time": 100,
-    "timeDay": 100,
-    "timeWeek": 100,
-    "timeMonth": 100,
-    "timeYear": 100,
-    "dailyMinutesDown": {
-      "2022-04-15": 519,
-      "2022-04-14": 476
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 99,
+    "timeDay": 99,
+    "timeWeek": 99,
+    "timeMonth": 99,
+    "timeYear": 99,
+    "dailyMinutesDown": {}
   },
   {
     "name": "APIV3-VideoGames",
@@ -65,19 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/apiv3.esports-data-provider.com",
     "slug": "apiv-3-video-games",
     "status": "up",
-    "uptime": "9.00%",
-    "uptimeDay": "9.00%",
-    "uptimeWeek": "9.00%",
-    "uptimeMonth": "9.00%",
-    "uptimeYear": "9.00%",
-    "time": 111,
-    "timeDay": 111,
-    "timeWeek": 111,
-    "timeMonth": 111,
-    "timeYear": 111,
-    "dailyMinutesDown": {
-      "2022-04-15": 520,
-      "2022-04-14": 476
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 110,
+    "timeDay": 110,
+    "timeWeek": 110,
+    "timeMonth": 110,
+    "timeYear": 110,
+    "dailyMinutesDown": {}
   }
 ]
