@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 445,
-    "timeWeek": 445,
-    "timeMonth": 445,
-    "timeYear": 445,
+    "time": 432,
+    "timeDay": 432,
+    "timeWeek": 432,
+    "timeMonth": 432,
+    "timeYear": 432,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/apiv3.esports-data-provider.com",
     "slug": "apiv-3-events",
     "status": "down",
-    "uptime": "4.01%",
-    "uptimeDay": "4.01%",
-    "uptimeWeek": "4.01%",
-    "uptimeMonth": "4.01%",
-    "uptimeYear": "4.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 75,
     "timeDay": 75,
     "timeWeek": 75,
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2022-04-14": 0
+      "2022-04-15": 234,
+      "2022-04-14": 476
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/apiv3.esports-data-provider.com",
     "slug": "apiv-3-matches",
     "status": "down",
-    "uptime": "6.10%",
-    "uptimeDay": "6.10%",
-    "uptimeWeek": "6.10%",
-    "uptimeMonth": "6.10%",
-    "uptimeYear": "6.10%",
-    "time": 240,
-    "timeDay": 240,
-    "timeWeek": 240,
-    "timeMonth": 240,
-    "timeYear": 240,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 238,
+    "timeDay": 238,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2022-04-14": 0
+      "2022-04-15": 234,
+      "2022-04-14": 476
     }
   },
   {
@@ -63,18 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/apiv3.esports-data-provider.com",
     "slug": "apiv-3-video-games",
     "status": "down",
-    "uptime": "9.43%",
-    "uptimeDay": "9.43%",
-    "uptimeWeek": "9.43%",
-    "uptimeMonth": "9.43%",
-    "uptimeYear": "9.43%",
-    "time": 236,
-    "timeDay": 236,
-    "timeWeek": 236,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 235,
+    "timeDay": 235,
+    "timeWeek": 235,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2022-04-14": 0
+      "2022-04-15": 234,
+      "2022-04-14": 476
     }
   }
 ]
