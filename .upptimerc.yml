@@ -9,6 +9,8 @@ sites:
     - "token: test"
   - name: APIV3-Events
     url: https://apiv3.esports-data-provider.com/events
+    headers:
+    - "token: test"
   - name: APIV3-Matches
     url: https://apiv3.esports-data-provider.com/matches
   - name: APIV3-VideoGames
