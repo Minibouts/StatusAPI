@@ -4,61 +4,67 @@
     "url": "https://apiv3.esports-data-provider.com/teams",
     "icon": "https://favicons.githubusercontent.com/apiv3.esports-data-provider.com",
     "slug": "apiv-3-teams",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 384,
     "timeDay": 374,
-    "timeWeek": 417,
+    "timeWeek": 418,
     "timeMonth": 384,
     "timeYear": 384,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-03": 2
+    }
   },
   {
     "name": "APIV3-Events",
     "url": "https://apiv3.esports-data-provider.com/events",
     "icon": "https://favicons.githubusercontent.com/apiv3.esports-data-provider.com",
     "slug": "apiv-3-events",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
     "timeDay": 163,
-    "timeWeek": 162,
+    "timeWeek": 163,
     "timeMonth": 156,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-03": 1
+    }
   },
   {
     "name": "APIV3-Matches",
     "url": "https://apiv3.esports-data-provider.com/matches",
     "icon": "https://favicons.githubusercontent.com/apiv3.esports-data-provider.com",
     "slug": "apiv-3-matches",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
     "timeDay": 81,
-    "timeWeek": 84,
+    "timeWeek": 85,
     "timeMonth": 89,
     "timeYear": 89,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-03": 1
+    }
   },
   {
     "name": "APIV3-VideoGames",
     "url": "https://apiv3.esports-data-provider.com/videogames",
     "icon": "https://favicons.githubusercontent.com/apiv3.esports-data-provider.com",
     "slug": "apiv-3-video-games",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 84,
     "timeMonth": 94,
     "timeYear": 94,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-03": 0
+    }
   }
 ]
